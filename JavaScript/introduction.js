@@ -1,2 +1,2 @@
 let namasaya = "Desman Saputra"
-console.log(namasaya)
+console.log("Nama saya",namasaya)
